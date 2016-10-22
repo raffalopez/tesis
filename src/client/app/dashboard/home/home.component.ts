@@ -48,11 +48,11 @@ export class HomeComponent {
 	public alerts:Array<Object> = [
 	   {
 	     type: 'danger',
-	     msg: 'Oh snap! Change a few things up and try submitting again.'
+	     msg: 'Proximo turno en 2 dias.'
 	   },
 	   {
 	     type: 'success',
-	     msg: 'Well done! You successfully read this important alert message.',
+	     msg: 'Su mascota se encuentra en buen estado.',
 	     closable: true
 	   }
 	 ];
